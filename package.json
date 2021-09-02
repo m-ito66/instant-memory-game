@@ -1,0 +1,19 @@
+{
+  "name": "instant-game-memory",
+  "version": "1.0.0",
+  "description": "瞬間記憶力ゲーム",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-ito66/instant-memory-game.git"
+  },
+  "author": "m-ito66",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-ito66/instant-memory-game/issues"
+  },
+  "homepage": "https://github.com/m-ito66/instant-memory-game#readme"
+}
