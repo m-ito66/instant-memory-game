@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/m-ito66/instant-memory-game/issues"
   },
-  "homepage": "https://github.com/m-ito66/instant-memory-game#readme"
+  "homepage": "https://github.com/m-ito66/instant-memory-game#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
 }
