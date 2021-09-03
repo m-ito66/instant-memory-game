@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const { Input } = require('enquirer')
 const { Select } = require('enquirer')
 const explanation = `Description of this game.
