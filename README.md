@@ -4,7 +4,7 @@ This is a game that allows you to measure your instantaneous memory.
 
 # install
 
-`$ npm install -D instant-memory-game`
+`$ npm install -g instant-memory-game`
 
 # usage
 
