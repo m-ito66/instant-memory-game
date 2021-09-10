@@ -16,7 +16,7 @@ function main () {
   })
 
   prompt.run()
-    .then(answer => { startGame() })
+    .then(function () { startGame() })
 }
 
 async function startGame () {
@@ -95,7 +95,7 @@ function answer (int) {
       })
       prompt.run()
         .then(console.log(''))
-        .then(answer => { resolve(checkAnswer(int, answer.toString())) })
+        .then(function (answer) { resolve(checkAnswer(int, answer.toString())) })
     }
   )
 }
