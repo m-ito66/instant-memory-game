@@ -1,6 +1,6 @@
 {
   "name": "instant-memory-game",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "瞬間記憶力ゲーム",
   "main": "main.js",
   "bin": {
